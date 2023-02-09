@@ -17,8 +17,8 @@ RP = (255, 0, 128)
 ASD = (188, 196, 96)
 ASD1 = (188, 0, 96)
 
-colors_live = [WHITE, RED]
-colors_dead = [BLACK, GREEN]
+colors_live = [WHITE]
+colors_dead = [BLACK]
 
 rect_width = 10
 rect_height = 10
